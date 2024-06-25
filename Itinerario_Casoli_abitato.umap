@@ -689,6 +689,10 @@
   ],
   "geometry": {
     "type": "Point",
-    "coordinates": 10.670694
+    "coordinates": [
+      10.670694,
+      44.039829,
+      0
+    ]
   }
 }
